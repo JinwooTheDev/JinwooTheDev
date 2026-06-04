@@ -121,7 +121,7 @@
 <!-- 📬 Контакты -->
 <div align="center">
   <h2>📬 Связаться со мной</h2>
-  <a href="https://t.me/jinwoo_n" target="_blank">
+  <a href="https://t.me/jinwosss" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
   </a>
   <a href="https://vk.com/10plus11" target="_blank">
